@@ -1,2 +1,2 @@
-# ProjectEuler
-Solutions to the problems defined in https://projecteuler.net/
+# Project Euler
+Solutions for the problems defined in https://projecteuler.net/ .
